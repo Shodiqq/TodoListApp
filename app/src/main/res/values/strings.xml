@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TodoListApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_add_new_todo">Add New Todo</string>
+    <string name="text_add_new_about">Add new About</string>
+    <string name="text_hint_task_name">Text Hint Name</string>
+    <string name="text_hint_task_description">Text Hint Description</string>
+    <string name="text_hint_task_header_url">Text Header Image Url</string>
+    <string name="text_btn_save_task">Save</string>
+    <string name="text_title_task_form_activity">title task form activity</string>
+    <string name="text_error_field_task_name">Name must inputed</string>
+    <string name="text_error_field_task_desc">description must inputed</string>
+    <string name="text_error_field_task_header">image url must inputed</string>
+</resources>

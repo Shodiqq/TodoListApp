@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_add_task"
+        android:title="@string/text_add_new_todo"
+        android:icon="@drawable/ic_add_todo"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/menu_about"
+        android:title="@string/text_add_new_about"
+        android:icon="@drawable/ic_abort"
+        app:showAsAction="ifRoom"/>
+</menu>
